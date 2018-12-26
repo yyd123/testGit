@@ -4,3 +4,6 @@ i am king;
 who are you?
  this id dev
  this is master
+this is dev1,
+this is dev2,
+
